@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_p52_4xn_mwb">
+    <title>European Union Emissions Trading System</title>
+    <body>
+        <p>The European Union Emissions Trading System (EU ETS) is a "cap and trade" scheme where a
+            limit is placed on the right to emit specified pollutants over an area and companies can
+            trade emission rights within that area. It covers around 45% of the EUs greenhouse gas
+                    emissions.<sup><xref
+                    href="https://en.wikipedia.org/wiki/European_Union_Emissions_Trading_System#cite_note-1"
+                    format="html" scope="external">[1]</xref></sup></p>
+        <p>Under the "cap and trade" principle, a maximum (cap) is set on the total amount of
+            greenhouse gases.</p>
+        <p><xref href="https://en.wikipedia.org/wiki/EU_Allowance" format="html" scope="external">EU
+                Allowances</xref> for emissions are then auctioned off or allocated for free, and
+            can subsequently be traded.  Installations must <xref
+                href="https://en.wikipedia.org/wiki/Carbon_monitoring" format="html"
+                scope="external">monitor</xref> and report their CO<sub>2</sub> emissions, ensuring
+            they hand in enough allowances to the authorities to cover their emissions. If emission
+            exceeds what is permitted by its allowances, an installation must purchase allowances
+            from others. Conversely, if an installation has performed well at reducing its
+            emissions, it can sell its leftover credits.</p>
+        <p>The scheme has been divided into a number of "trading periods" as follows:</p>
+        <section id="section_hwx_vxn_mwb">
+            <title>Phase 1</title>
+            <p>In the first phase (2005–2007), the EU ETS included some 12,000 installations,
+                representing approximately 40% of EU CO<sub>2</sub> emissions, covering energy
+                activities (combustion installations with a rated thermal input exceeding 20 <xref
+                    href="https://en.wikipedia.org/wiki/Megawatt" format="html" scope="external"
+                    >MW</xref>, mineral oil refineries, coke ovens), production and processing of
+                ferrous metals, mineral industry (cement clinker, glass and ceramic bricks) and
+                pulp, paper and board activities.<sup><xref
+                        href="https://en.wikipedia.org/wiki/European_Union_Emissions_Trading_System#cite_note-46"
+                        format="html" scope="external">[46]</xref></sup></p>
+        </section>
+        <section id="section_egd_xxn_mwb">
+            <title>Phase 2</title>
+            <p>The second phase (2008–12) expanded the scope of the scheme significantly. In 2007,
+                three non-EU members, <xref href="https://en.wikipedia.org/wiki/Norway"
+                    format="html" scope="external">Norway</xref>, <xref
+                    href="https://en.wikipedia.org/wiki/Iceland" format="html" scope="external"
+                    >Iceland</xref>, and <xref href="https://en.wikipedia.org/wiki/Liechtenstein"
+                    format="html" scope="external">Liechtenstein</xref> joined the scheme.<sup><xref
+                        href="https://en.wikipedia.org/wiki/European_Union_Emissions_Trading_System#cite_note-53"
+                        format="html" scope="external">[53]</xref></sup> The EU's "Linking
+                Directive" introduced the <xref
+                    href="https://en.wikipedia.org/wiki/Clean_Development_Mechanism" format="html"
+                    scope="external">CDM</xref> and <xref
+                    href="https://en.wikipedia.org/wiki/Joint_Implementation" format="html"
+                    scope="external">JI</xref> credits. Although this was a theoretical possibility
+                in phase I, the over-allocation of permits combined with the inability to bank them
+                for use in the second phase meant it was not taken up.<sup><xref
+                        href="https://en.wikipedia.org/wiki/European_Union_Emissions_Trading_System#cite_note-54"
+                        format="html" scope="external">[54]</xref></sup></p>
+            <p>On 27 April 2012, the European Commission announced the full activation of the EU
+                Emissions Trading System single registry. The full activation process included the
+                migration of over 30,000 EU ETS accounts from national registries. The European
+                Commission further stated that the single registry to be activated in June will not
+                contain all the required functionalities for phase III of the EU ETS.<sup><xref
+                        href="https://en.wikipedia.org/wiki/European_Union_Emissions_Trading_System#cite_note-55"
+                        format="html" scope="external">[55]</xref></sup></p>
+        </section>
+        <section id="section_lsy_yxn_mwb">
+            <title>Phase 3</title>
+            <p>For Phase III (2013–2020), the European Commission implemented a number of changes,
+                including (CCC, 2008, p. 149):<sup><xref
+                        href="https://en.wikipedia.org/wiki/European_Union_Emissions_Trading_System#cite_note-ccc-66"
+                        format="html" scope="external">[66]</xref></sup></p>
+            <ul id="ul_bsh_zxn_mwb">
+                <li>the setting of an overall EU cap, with allowances then allocated to EU
+                    members;</li>
+                <li>tighter limits on the use of offsets;</li>
+                <li>limiting banking of allowances between Phases II and III;</li>
+                <li>a move from allowances to auctioning;</li>
+                <li>and the inclusion of more sectors and gases.</li>
+            </ul>
+        </section>
+        <section id="section_ij1_1yn_mwb">
+            <title>Phase 4</title>
+            <p>Phase IV commenced on 1 January 2021 and will finish on 31 December 2030.<sup><xref
+                        href="https://en.wikipedia.org/wiki/European_Union_Emissions_Trading_System#cite_note-89"
+                        format="html" scope="external">[85]</xref></sup> The European Commission
+                plans a full review of the Directive by 2026. Since 2018, prices have continuously
+                increased, reaching €57/tCO<sub>2</sub> (67 $) in July 2021.<sup><xref
+                        href="https://en.wikipedia.org/wiki/European_Union_Emissions_Trading_System#cite_note-90"
+                        format="html" scope="external">[86]</xref></sup>. This results in additional
+                costs of about €0.04/kWh for coal and €0.02/kWh for gas combustion for
+                electricity.</p>
+        </section>
+    </body>
+</topic>
